@@ -1,0 +1,13 @@
+Movie ID,Rank,Title,Production Budget,Domestic Gross,Worldwide Gross,Main Genre,2nd Genre,3rd Genre,IMDB Rating,Studio,Year,IMDb ID,Director
+0,48,Black Panther,200000000.0,700059566.0,1336494320.00,Action,Adventure,Drama,7.4,Walt Disney Pictures,2018,,Ryan Coogler
+1,5,Avengers: Infinity War,300000000.0,678815482.0,2048359754.00,Action,Adventure,Sci-Fi,8.5,Walt Disney Pictures,2018,,"Anthony Russo, Joe Russo"
+2,50,Incredibles 2,200000000.0,608581744.0,1242805359.00,Animation,Action,Adventure,7.8,Pixar,2018,,Brad Bird
+3,144,Jurassic World: Fallen Kingdom,170000000.0,417719760.0,1308323302.00,Action,Adventure,Drama,6.2,Universal Pictures,2018,,J.A. Bayona
+4,11,Solo: A Star Wars Story,275000000.0,213767512.0,393151347.00,Action,Adventure,Drama,7.0,Walt Disney Pictures,2018,,Ron Howard
+5,353,Venom,116000000.0,213511408.0,856081053.00,Action,Adventure,Drama,6.9,Columbia Pictures,2018,,Ruben Fleischer
+6,503,Jumanji: Welcome to the Jungle,90000000.0,404508916.0,961632807.00,Action,Adventure,Comedy,7.0,Sony Pictures,2017,,Jake Kasdan
+7,127,Spider-Man: Homecoming,175000000.0,334201140.0,878271291.00,Action,Adventure,Drama,7.5,Sony Pictures,2017,,Jon Watts
+8,1785,It,35000000.0,328828874.0,701012746.00,Horror,Drama,Mystery,7.4,Warner Bros,2017,,Andy Muschietti
+9,114,WALL-E,180000000.0,223808164.0,532508025.00,Animation,Animation,Adventure,8.4,Pixar,2008,,Andrew Stanton
+10,949,300,60000000.0,210614939.0,454161935.00,War,Fantasy,Action,7.8,Warner Bros,2007,,Zack Snyder
+11,1162,Superman II,54000000.0,108185706.0,190400000.00,Sci-Fi,Romance,Action,6.8,Warner Bros,1981,,"Richard Lester, Richard Donner"
