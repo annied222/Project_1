@@ -1,0 +1,243 @@
+Movie ID,Title,Director
+0,Black Panther,Ryan Coogler
+1,Avengers: Infinity War,"Anthony Russo, Joe Russo"
+2,Incredibles 2,Brad Bird
+3,Jurassic World: Fallen Kingdom,J.A. Bayona
+4,Solo: A Star Wars Story,Ron Howard
+5,Venom,Ruben Fleischer
+6,Venom,Ruben Fleischer
+7,Wonder Woman,Patty Jenkins
+8,Jumanji: Welcome to the Jungle,Jake Kasdan
+9,Spider-Man: Homecoming,Jon Watts
+10,It,Andy Muschietti
+11,Thor: Ragnarok,Taika Waititi
+12,Justice League,Zack Snyder
+13,Rogue One: A Star Wars Story,Gareth Edwards
+14,Captain America: Civil War,"Anthony Russo, Joe Russo"
+15,Deadpool,Tim Miller
+16,Zootopia,"Byron Howard, Rich Moore, Jared Bush"
+17,Batman v Superman: Dawn of Justice,Zack Snyder
+18,Sing,"Garth Jennings, Christophe Lourdelet"
+19,Sing,"Garth Jennings, Christophe Lourdelet"
+20,Jurassic World,Colin Trevorrow
+21,Avengers: Age of Ultron,Joss Whedon
+22,Furious 7,James Wan
+23,Minions,"Kyle Balda, Pierre Coffin"
+24,The Hunger Games: Mockingjay - Part 2,Francis Lawrence
+25,Transformers: Age of Extinction,Michael Bay
+26,Guardians of the Galaxy,James Gunn
+27,Maleficent,Robert Stromberg
+28,X-Men: Days of Future Past,Bryan Singer
+29,Captain America: The Winter Soldier,"Anthony Russo, Joe Russo"
+30,The Amazing Spider-Man 2,Marc Webb
+31,Dawn of the Planet of the Apes,Matt Reeves
+32,Frozen,"Chris Buck, Jennifer Lee"
+33,Iron Man 3,Shane Black
+34,Despicable Me 2,"Pierre Coffin, Chris Renaud"
+35,Monsters University,Dan Scanlon
+36,Gravity,Alfonso Cuarón
+37,Man of Steel,Zack Snyder
+38,Thor: The Dark World,Alan Taylor
+39,The Avengers,Joss Whedon
+40,The Avengers,Joss Whedon
+41,Skyfall,Sam Mendes
+42,Ice Age: Continental Drift,"Steve Martino, Michael Thurmeier"
+43,The Amazing Spider-Man,Marc Webb
+44,Madagascar 3: Europe's Most Wanted,"Eric Darnell, Tom McGrath, Conrad Vernon"
+45,Men in Black 3,Barry Sonnenfeld
+46,Transformers: Dark of the Moon,Michael Bay
+47,Pirates of the Caribbean: On Stranger Tides,Rob Marshall
+48,Kung Fu Panda 2,Jennifer Yuh Nelson
+49,Fast Five,Justin Lin
+50,The Smurfs,Raja Gosnell
+51,Cars 2,"John Lasseter, Bradford Lewis"
+52,Toy Story 3,Lee Unkrich
+53,Alice in Wonderland,Tim Burton
+54,Alice in Wonderland,Tim Burton
+55,Inception,Christopher Nolan
+56,Shrek Forever After,Mike Mitchell
+57,The Twilight Saga: Eclipse,David Slade
+58,Iron Man 2,Jon Favreau
+59,Tangled,"Nathan Greno, Byron Howard"
+60,Despicable Me,"Pierre Coffin, Chris Renaud"
+61,How to Train Your Dragon,"Dean DeBlois, Chris Sanders"
+62,Avatar,James Cameron
+63,Harry Potter and the Half-Blood Prince,David Yates
+64,Ice Age: Dawn of the Dinosaurs,"Carlos Saldanha, Michael Thurmeier"
+65,Transformers: Revenge of the Fallen,Michael Bay
+66,2012,Roland Emmerich
+67,Up,"Pete Docter, Bob Peterson"
+68,The Twilight Saga: New Moon,Chris Weitz
+69,Sherlock Holmes,Guy Ritchie
+70,The Dark Knight,Christopher Nolan
+71,Kung Fu Panda,"Mark Osborne, John Stevenson"
+72,Mamma Mia!,Phyllida Lloyd
+73,Madagascar: Escape 2 Africa,"Eric Darnell, Tom McGrath"
+74,Iron Man,Jon Favreau
+75,WALL-E,Andrew Stanton
+76,The Chronicles of Narnia: Prince Caspian,Andrew Adamson
+77,Harry Potter and the Order of the Phoenix,David Yates
+78,Shrek the Third,"Chris Miller, Raman Hui"
+79,Transformers,Michael Bay
+80,Ratatouille,"Brad Bird, Jan Pinkava"
+81,The Simpsons Movie,David Silverman
+82,300,Zack Snyder
+83,Ice Age: The Meltdown,Carlos Saldanha
+84,Casino Royale,Martin Campbell
+85,Casino Royale,Martin Campbell
+86,Night at the Museum,Shawn Levy
+87,Cars,"John Lasseter, Joe Ranft"
+88,X-Men: The Last Stand,Brett Ratner
+89,Mission: Impossible III,J.J. Abrams
+90,Superman Returns,Bryan Singer
+91,Happy Feet,"George Miller, Warren Coleman, Judy Morris"
+92,Harry Potter and the Goblet of Fire,Mike Newell
+93,War of the Worlds,Steven Spielberg
+94,King Kong,Peter Jackson
+95,King Kong,Peter Jackson
+96,King Kong,Peter Jackson
+97,Madagascar,"Eric Darnell, Tom McGrath"
+98,Charlie and the Chocolate Factory,Tim Burton
+99,Shrek 2,"Andrew Adamson, Kelly Asbury, Conrad Vernon"
+100,Harry Potter and the Prisoner of Azkaban,Alfonso Cuarón
+101,The Incredibles,Brad Bird
+102,The Day After Tomorrow,Roland Emmerich
+103,Shark Tale,"Bibo Bergeron, Vicky Jenson, Rob Letterman"
+104,The Lord of the Rings: The Return of the King,Peter Jackson
+105,Finding Nemo,"Andrew Stanton, Lee Unkrich"
+106,Bruce Almighty,Tom Shadyac
+107,The Last Samurai,Edward Zwick
+108,Bad Boys II,Michael Bay
+109,Harry Potter and the Chamber of Secrets,Chris Columbus
+110,Die Another Day,Lee Tamahori
+111,Signs,M. Night Shyamalan
+112,Ice Age,"Chris Wedge, Carlos Saldanha"
+113,Minority Report,Steven Spielberg
+114,"Monsters, Inc.","Pete Docter, David Silverman, Lee Unkrich"
+115,Shrek,"Andrew Adamson, Vicky Jenson"
+116,Pearl Harbor,Michael Bay
+117,The Mummy Returns,Stephen Sommers
+118,Jurassic Park III,Joe Johnston
+119,Planet of the Apes,Tim Burton
+120,Planet of the Apes,Tim Burton
+121,Hannibal,Ridley Scott
+122,What Women Want,Nancy Meyers
+123,Dinosaur,"Eric Leighton, Ralph Zondag"
+124,How the Grinch Stole Christmas,Ron Howard
+125,The Perfect Storm,Wolfgang Petersen
+126,X-Men,Bryan Singer
+127,What Lies Beneath,Robert Zemeckis
+128,The Sixth Sense,M. Night Shyamalan
+129,Toy Story 2,"John Lasseter, Ash Brannon, Lee Unkrich"
+130,Tarzan,"Chris Buck, Kevin Lima"
+131,The Mummy,Stephen Sommers
+132,The Mummy,Stephen Sommers
+133,Notting Hill,Roger Michell
+134,Austin Powers: The Spy Who Shagged Me,Jay Roach
+135,Armageddon,Michael Bay
+136,Saving Private Ryan,Steven Spielberg
+137,Godzilla,Gareth Edwards
+138,Godzilla,Gareth Edwards
+139,Deep Impact,Mimi Leder
+140,Mulan,"Tony Bancroft, Barry Cook"
+141,Mulan,"Tony Bancroft, Barry Cook"
+142,Shakespeare in Love,John Madden
+143,Lethal Weapon 4,Richard Donner
+144,The Lost World: Jurassic Park,Steven Spielberg
+145,Tomorrow Never Dies,Roger Spottiswoode
+146,Air Force One,Wolfgang Petersen
+147,The Fifth Element,Luc Besson
+148,The Full Monty,Peter Cattaneo
+149,Independence Day,Roland Emmerich
+150,Twister,Jan de Bont
+151,Mission: Impossible,Brad Bird
+152,The Rock,Michael Bay
+153,The Hunchback of Notre Dame,"Gary Trousdale, Kirk Wise"
+154,The Nutty Professor,Tom Shadyac
+155,Jerry Maguire,Cameron Crowe
+156,Eraser,Chuck Russell
+157,Toy Story,John Lasseter
+158,Apollo 13,Ron Howard
+159,Pocahontas,"Mike Gabriel, Eric Goldberg"
+160,Batman Forever,Joel Schumacher
+161,Casper,Brad Silberling
+162,Waterworld,Kevin Reynolds
+163,Jumanji,Joe Johnston
+164,The Lion King,"Roger Allers, Rob Minkoff"
+165,The Lion King,"Roger Allers, Rob Minkoff"
+166,True Lies,James Cameron
+167,The Mask,Chuck Russell
+168,Speed,Jan de Bont
+169,The Flintstones,Brian Levant
+170,Four Weddings and a Funeral,Mike Newell
+171,Clear and Present Danger,Phillip Noyce
+172,Jurassic Park,Steven Spielberg
+173,Mrs. Doubtfire,Chris Columbus
+174,The Fugitive,Andrew Davis
+175,The Firm,Sydney Pollack
+176,Cliffhanger,Renny Harlin
+177,The Pelican Brief,Alan J. Pakula
+178,Aladdin,"Ron Clements, John Musker"
+179,Aladdin,"Ron Clements, John Musker"
+180,The Bodyguard,Mick Jackson
+181,Home Alone 2: Lost in New York,Chris Columbus
+182,Lethal Weapon 3,Richard Donner
+183,Robin Hood: Prince of Thieves,Kevin Reynolds
+184,Beauty and the Beast,"Gary Trousdale, Kirk Wise"
+185,Beauty and the Beast,"Gary Trousdale, Kirk Wise"
+186,Hook,Steven Spielberg
+187,JFK,Oliver Stone
+188,Ghost,Jerry Zucker
+189,Dances with Wolves,Kevin Costner
+190,Total Recall,Paul Verhoeven
+191,Total Recall,Paul Verhoeven
+192,Back to the Future Part III,Robert Zemeckis
+193,Teenage Mutant Ninja Turtles,Jonathan Liebesman
+194,Teenage Mutant Ninja Turtles,Jonathan Liebesman
+195,Kindergarten Cop,Ivan Reitman
+196,Back to the Future Part II,Robert Zemeckis
+197,Born on the Fourth of July,Oliver Stone
+198,Big,Penny Marshall
+199,Cocktail,Roger Donaldson
+200,Beverly Hills Cop II,Tony Scott
+201,The Untouchables,Brian De Palma
+202,Lethal Weapon,Richard Donner
+203,Top Gun,Tony Scott
+204,Star Trek IV: The Voyage Home,Leonard Nimoy
+205,Aliens,James Cameron
+206,The Golden Child,Michael Ritchie
+207,Back to the Future,Robert Zemeckis
+208,Rambo: First Blood Part II,George P. Cosmatos
+209,Witness,Peter Weir
+210,Indiana Jones and the Temple of Doom,Steven Spielberg
+211,The Karate Kid,John G. Avildsen
+212,The Karate Kid,John G. Avildsen
+213,Footloose,Herbert Ross
+214,Footloose,Herbert Ross
+215,Star Trek III: The Search for Spock,Leonard Nimoy
+216,Flashdance,Adrian Lyne
+217,Octopussy,John Glen
+218,E.T. the Extra-Terrestrial,Steven Spielberg
+219,Star Trek II: The Wrath of Khan,Nicholas Meyer
+220,Annie,John Huston
+221,Superman II,"Richard Lester, Richard Donner"
+222,Chariots of Fire,Hugh Hudson
+223,For Your Eyes Only,John Glen
+224,Time Bandits,Terry Gilliam
+225,The Blue Lagoon,Randal Kleiser
+226,The Blues Brothers,John Landis
+227,Star Trek: The Motion Picture,Robert Wise
+228,Moonraker,Lewis Gilbert
+229,The Muppet Movie,James Frawley
+230,Superman,Richard Donner
+231,Heaven Can Wait,"Warren Beatty, Buck Henry"
+232,A Bridge Too Far,Richard Attenborough
+233,The Spy Who Loved Me,Lewis Gilbert
+234,Annie Hall,Woody Allen
+235,The Omen,Richard Donner
+236,The Omen,Richard Donner
+237,King Kong,Peter Jackson
+238,King Kong,Peter Jackson
+239,King Kong,Peter Jackson
+240,Midway,Roland Emmerich
+241,The Return of the Pink Panther,Blake Edwards
