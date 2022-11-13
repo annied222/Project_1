@@ -2,7 +2,7 @@
 
 ## **Does a movie's budget have an impact a movie's outcome, gross income or rating?**
 
-To figure out weather or not there is a relationship between a movie's gross income and that movie's production budget there were questions that needed to be answered. These questions were developed in order to look directly at the budget vs income relationship, but also to look at other factors that may have an impact on a movie's income. The questions are as the precide below along with the correlating notebook.
+&nbsp;&nbsp;&nbsp;&nbsp; To figure out weather or not there is a relationship between a movie's gross income and that movie's production budget there were questions that needed to be answered. These questions were developed in order to look directly at the budget vs income relationship, but also to look at other factors that may have an impact on a movie's income. The questions are as the precide below along with the correlating notebook.
 
 ### **Is there a correlation between a movie's budget and the domestic/worldwide gross? (erics_movies.ipynb)**
 &nbsp;&nbsp;&nbsp;&nbsp; At first glance I was of the opinion that the higher the movie budget the more money it was going to make domestically/worldwide. However the domestic r-squared value is .32, the worldwide r-squared value is slightly higher at .42 and the points on the scatter plot have a greater dispersion the higher the budget gets. I would say that a higher movie budget does not fit our assumption that the greater the budget the greater the profits.
@@ -23,4 +23,4 @@ To figure out weather or not there is a relationship between a movie's gross inc
 
 ### **Is there a difference among studios and the production budget?**
 
-After completing all of the analyses and looking over the data collected it can be said that production budget can have an affect on gorss income, but there are other factors as weell, including but not limited to how the director is, if the viewers like the movie, the movie genre, and the producing studio.
+&nbsp;&nbsp;&nbsp;&nbsp; After completing all of the analyses and looking over the data collected it can be said that production budget can have an affect on gorss income, but there are other factors as weell, including but not limited to how the director is, if the viewers like the movie, the movie genre, and the producing studio.
