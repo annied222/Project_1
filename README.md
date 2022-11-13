@@ -1,10 +1,10 @@
 # **Movies: To Spend or Not To Spend**
 
-##** Does a movie's budget have an impact a movie's outcome, gross income or rating?**
+## ** Does a movie's budget have an impact a movie's outcome, gross income or rating?**
 
 To figure out weather or not there is a relationship between a movie's gross income and that movie's production budget there were questions that needed to be answered. These questions were developed in order to look directly at the budget vs income relationship, but also to look at other factors that may have an impact on a movie's income. The questions are as the precide below along with the correlating notebook.
 
-### Is there a correlation between a movie's budget and the domestic/worldwide gross?
+### **Is there a correlation between a movie's budget and the domestic/worldwide gross?**
 
 ### How does a production's budget break down in per genre, and does have an impact on the worldwide or domestic gross?
 
