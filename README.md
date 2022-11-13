@@ -4,10 +4,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; To figure out weather or not there is a relationship between a movie's gross income and that movie's production budget there were questions that needed to be answered. These questions were developed in order to look directly at the budget vs income relationship, but also to look at other factors that may have an impact on a movie's income. The questions are as the precide below along with the correlating notebook.
 
+
 ### **Is there a correlation between a movie's budget and the domestic/worldwide gross? (erics_movies.ipynb)**
 &nbsp;&nbsp;&nbsp;&nbsp; At first glance I was of the opinion that the higher the movie budget the more money it was going to make domestically/worldwide. However the domestic r-squared value is .32, the worldwide r-squared value is slightly higher at .42 and the points on the scatter plot have a greater dispersion the higher the budget gets. I would say that a higher movie budget does not fit our assumption that the greater the budget the greater the profits.
 
-### **How does a production's budget break down in per genre, and does have an impact on the worldwide or domestic gross?**
+### **Over the years how has a movie's budget changed, and has there been a correlating change in gross income, domestic and worldwide?**
+
+### **How does a production's budget breakdown in per genre, and does have an impact on the worldwide or domestic gross?**
 
 ### **Will a movie's production budget be reflected in the ratings of that movie? (budgetandratings.ipynb)** 
 &nbsp;&nbsp;&nbsp;&nbsp; When reviewing the data, we initially wanted to identify the movies with the highest IMDB ratings and the ones with the lowest IMDB ratings and then compare how the budgets for each data set identified. Within the data compiled, there was 12 movies identified as having an IMDB rating of equal or greater than 8.3 and each movie had an average budget of roughly 140 million dollars. The highest rated movie per the data compiled was The Dark Knight which had a production budget of 185 million dollars and achieved a 9.0 IMDB rating.
@@ -23,4 +26,4 @@
 
 ### **Is there a difference among studios and the production budget?**
 
-&nbsp;&nbsp;&nbsp;&nbsp; After completing all of the analyses and looking over the data collected it can be said that production budget can have an affect on gorss income, but there are other factors as weell, including but not limited to how the director is, if the viewers like the movie, the movie genre, and the producing studio.
+&nbsp;&nbsp;&nbsp;&nbsp; After completing all of the analyses and looking over the data collected it can be said that production budget can have an affect on gorss income, but there are other factors as well, including but not limited to how the director is, if the viewers like the movie, the movie genre, and the producing studio.
