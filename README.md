@@ -5,6 +5,7 @@
 To figure out weather or not there is a relationship between a movie's gross income and that movie's production budget there were questions that needed to be answered. These questions were developed in order to look directly at the budget vs income relationship, but also to look at other factors that may have an impact on a movie's income. The questions are as the precide below along with the correlating notebook.
 
 ### **Is there a correlation between a movie's budget and the domestic/worldwide gross?**
+&nbsp;&nbsp;&nbsp;&nbsp; At first glance I was of the opinion that the higher the movie budget the more money it was going to make domestically/worldwide. However the domestic r-squared value is .32, the worldwide r-squared value is slightly higher at .42 and the points on the scatter plot have a greater dispersion the higher the budget gets. I would say that a higher movie budget does not fit our assumption that the greater the budget the greater the profits.
 
 ### **How does a production's budget break down in per genre, and does have an impact on the worldwide or domestic gross?**
 
