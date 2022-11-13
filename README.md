@@ -23,3 +23,4 @@ To figure out weather or not there is a relationship between a movie's gross inc
 
 ### **Is there a difference among studios and the production budget?**
 
+After completing all of the analyses and looking over the data collected it can be said that production budget can have an affect on gorss income, but there are other factors as weell, including but not limited to how the director is, if the viewers like the movie, the movie genre, and the producing studio.
