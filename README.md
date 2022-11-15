@@ -8,7 +8,7 @@
 ### **Is there a correlation between a movie's budget and the domestic/worldwide gross?**
 &nbsp;&nbsp;&nbsp;&nbsp; At first glance I was of the opinion that the higher the movie budget the more money it was going to make domestically/worldwide. However the domestic r-squared value is .32, the worldwide r-squared value is slightly higher at .42 and the points on the scatter plot have a greater dispersion the higher the budget gets. I would say that a higher movie budget does not fit our assumption that the greater the budget the greater the profits.
 
-### **Over the years how has a movie's budget changed, and has there been a correlating change in gross income, domestic and worldwide? (updates.ipynb)**
+### **Over the years how has a movie's budget changed, and has there been a correlating change in gross income, domestic and worldwide?**
 &nbsp;&nbsp;&nbsp;&nbsp;We can clearly see changes over the years in budgets both worldwide and domestic. Our datasets started from 1975 and ran all through 2018 using American made movies only. The cost of movies have had a steady incline. Possibly due to inflation and changes in technology. There are some very high outliers when it comes to budgets but for the most part has been a steady inlcine instead of drastic changes in budgets.
 
 ### **How does a production's budget breakdown in per genre, and does have an impact on the worldwide or domestic gross? Based upon that, is there a difference among studios and the production budget?**
