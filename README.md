@@ -30,3 +30,5 @@
 
 ## **Final Analysis:**
 &nbsp;&nbsp;&nbsp;&nbsp; After completing all of the analyses and looking over the data collected it can be said that production budget can have an affect on gorss income, but there are other factors as well, including but not limited to how the director is, if the viewers like the movie, the movie genre, and the producing studio.
+
+Powerpoint: https://docs.google.com/presentation/d/19qZGrXJtz0zmFubgmXvJQRvEElXN5s8l9Z-Hk1jnCjk/edit#slide=id.p
