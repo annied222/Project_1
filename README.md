@@ -2,7 +2,7 @@
 
 ## **Does a movie's budget have an impact a movie's outcome, gross income or rating?**
 
-&nbsp;&nbsp;&nbsp;&nbsp; To figure out weather or not there is a relationship between a movie's gross income and that movie's production budget there were questions that needed to be answered. These questions were developed in order to look directly at the budget vs income relationship, but also to look at other factors that may have an impact on a movie's income. The questions are as the precide below along with the correlating notebook.
+&nbsp;&nbsp;&nbsp;&nbsp; To figure out weather or not there is a relationship between a movie's gross income and that movie's production budget there were questions that needed to be answered. These questions were developed in order to look directly at the budget vs income relationship, but also to look at other factors that may have an impact on a movie's income. To help answer the questions we created a dataset(allmoviedata.csv). This dataset was created by using a csv that had 250 of the top movies over the past 40 year. Then we found the correlating movie budget and gross income for those movies. Once we were able to that we found the directors for each movie use the OMDb API.  With the dataset we were able to answer our questions, which are as follows below along with the correlating notebook.
 
 
 ### **Is there a correlation between a movie's budget and the domestic/worldwide gross? (erics_movies.ipynb)**
