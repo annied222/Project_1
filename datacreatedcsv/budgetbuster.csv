@@ -1,0 +1,222 @@
+Movie ID,Rank,Title,Production Budget,Domestic Gross,Worldwide Gross,Main Genre,2nd Genre,3rd Genre,IMDB Rating,Studio,Year
+0,48,Black Panther,200.0,700.059566,1336.49432,Action,Adventure,Drama,7.4,Walt Disney Pictures,2018
+1,5,Avengers: Infinity War,300.0,678.815482,2048.359754,Action,Adventure,Sci-Fi,8.5,Walt Disney Pictures,2018
+2,50,Incredibles 2,200.0,608.581744,1242.805359,Animation,Action,Adventure,7.8,Pixar,2018
+3,144,Jurassic World: Fallen Kingdom,170.0,417.71976,1308.323302,Action,Adventure,Drama,6.2,Universal Pictures,2018
+7,11,Solo: A Star Wars Story,275.0,213.767512,393.151347,Action,Adventure,Drama,7.0,Walt Disney Pictures,2018
+8,353,Venom,116.0,213.511408,856.081053,Action,Adventure,Drama,6.9,Columbia Pictures,2018
+13,192,Wonder Woman,150.0,412.563408,817.691766,Action,Adventure,Drama,7.5,Warner Bros,2017
+14,503,Jumanji: Welcome to the Jungle,90.0,404.508916,961.632807,Action,Adventure,Comedy,7.0,Sony Pictures,2017
+16,127,Spider-Man: Homecoming,175.0,334.20114,878.271291,Action,Adventure,Drama,7.5,Sony Pictures,2017
+17,1785,It,35.0,328.828874,701.012746,Horror,Drama,Mystery,7.4,Warner Bros,2017
+18,110,Thor: Ragnarok,180.0,315.058289,850.482778,Action,Adventure,Drama,7.9,Walt Disney Pictures,2017
+20,7,Justice League,300.0,229.024295,655.945209,Action,Adventure,Drama,6.5,Warner Bros,2017
+21,51,Rogue One: A Star Wars Story,200.0,533.539991,1055.083596,Action,Adventure,Drama,7.8,Walt Disney Pictures,2016
+23,18,Captain America: Civil War,250.0,408.084349,1151.899586,Action,Adventure,Sci-Fi,7.8,Walt Disney Pictures,2016
+26,1066,Deadpool,58.0,363.070709,781.947691,Action,Comedy,Adventure,8.0,20th Century Fox,2016
+27,194,Zootopia,150.0,341.268248,1004.629935,Animation,Action,Adventure,8.0,Walt Disney Pictures,2016
+28,13,Batman v Superman: Dawn of Justice,263.0,330.360194,872.395091,Action,Adventure,Sci-Fi,6.5,Warner Bros,2016
+30,710,Sing,75.0,270.329045,631.064182,Animation,Music,Comedy,7.1,Universal Pictures,2016
+33,38,Jurassic World,215.0,652.306625,1669.963641,Action,Adventure,Mystery,7.0,Universal Pictures,2015
+34,3,Avengers: Age of Ultron,365.0,459.005868,1395.316979,Action,Adventure,Sci-Fi,7.4,Walt Disney Pictures,2015
+36,91,Furious 7,190.0,353.00702,1514.553486,Action,Adventure,Mystery,7.2,Universal Pictures,2015
+37,761,Minions,74.0,336.04577,1157.271759,Animation,Comedy,Family,6.4,Universal Pictures,2015
+38,173,The Hunger Games: Mockingjay - Part 2,160.0,281.723902,648.986787,Action,Adventure,Fantasy,6.6,Lionsgate Films,2015
+43,41,Transformers: Age of Extinction,210.0,245.439076,1104.054072,Sci-Fi,Adventure,Action,5.8,Paramount Pictures,2014
+45,145,Guardians of the Galaxy,170.0,333.714112,770.882395,Sci-Fi,Adventure,Action,8.1,Walt Disney Pictures,2014
+46,112,Maleficent,180.0,241.407328,758.536735,Fantasy,Adventure,Action,7.1,Walt Disney Pictures,2014
+48,65,X-Men: Days of Future Past,200.0,233.921534,747.862775,Sci-Fi,Adventure,Action,8.1,20th Century Fox,2014
+49,147,Captain America: The Winter Soldier,170.0,259.746958,714.401889,Sci-Fi,Adventure,Action,7.8,Walt Disney Pictures,2014
+50,66,The Amazing Spider-Man 2,200.0,202.853933,708.996336,Fantasy,Adventure,Action,6.9,Columbia Pictures,2014
+51,148,Dawn of the Planet of the Apes,170.0,208.545589,710.644566,Sci-Fi,Drama,Action,7.7,20th Century Fox,2014
+53,193,Frozen,150.0,400.953009,1261.629241,Comedy,Animation,Adventure,7.7,Walt Disney Pictures,2013
+54,56,Iron Man 3,200.0,408.992272,1215.392272,Sci-Fi,Adventure,Action,7.3,Walt Disney Pictures,2013
+55,703,Despicable Me 2,76.0,368.065385,975.216835,Animation,Comedy,Animation,7.5,Universal Pictures,2013
+59,63,Monsters University,200.0,268.488329,743.45581,Comedy,Animation,Adventure,7.4,Walt Disney Pictures,2013
+60,367,Gravity,110.0,274.092705,688.214291,Thriller,Sci-Fi,Western,7.9,Warner Bros,2013
+61,32,Man of Steel,225.0,291.045518,667.999518,Fantasy,Adventure,Action,7.2,Warner Bros,2013
+62,204,Thor: The Dark World,150.0,206.36214,644.602516,Fantasy,Adventure,Action,7.1,Walt Disney Pictures,2013
+63,30,The Avengers,225.0,623.35791,1515.100211,Sci-Fi,Adventure,Action,8.2,Walt Disney Pictures,2012
+65,61,Skyfall,200.0,304.360277,1110.526981,Thriller,Adventure,Action,7.8,Metro-Goldwyn-Mayer,2012
+68,477,Ice Age: Continental Drift,95.0,161.321843,879.765137,Comedy,Animation,Adventure,6.7,20th Century Fox,2012
+70,35,The Amazing Spider-Man,220.0,262.030663,757.890267,Fantasy,Adventure,Action,7.1,Columbia Pictures,2012
+71,239,Madagascar 3: Europe's Most Wanted,145.0,216.391482,746.921271,Comedy,Adventure,Animation,7.0,Paramount Pictures,2012
+73,39,Men in Black 3,215.0,179.020854,654.213485,Sci-Fi,Comedy,Action,6.9,Columbia Pictures,2012
+75,88,Transformers: Dark of the Moon,195.0,352.390543,1123.794079,Sci-Fi,Adventure,Action,6.3,Paramount Pictures,2011
+76,2,Pirates of the Caribbean: On Stranger Tides,379.0,241.071802,1045.713802,Fantasy,Adventure,Action,6.7,Walt Disney Pictures,2011
+79,212,Kung Fu Panda 2,150.0,165.249063,664.837547,Animation,Adventure,Action,7.3,Paramount Pictures,2011
+80,312,Fast Five,125.0,210.031325,630.163454,Thriller,Crime,Action,7.3,Universal Pictures,2011
+82,372,The Smurfs,110.0,142.614158,563.749323,Comedy,Animation,Adventure,5.5,Columbia Pictures,2011
+83,67,Cars 2,200.0,191.450875,560.155383,Comedy,Animation,Adventure,6.3,Walt Disney Pictures,2011
+84,54,Toy Story 3,200.0,415.00488,1068.879522,Comedy,Animation,Adventure,8.4,Walt Disney Pictures,2010
+85,60,Alice in Wonderland,200.0,334.19111,1025.49111,Fantasy,Family,Adventure,6.5,Walt Disney Pictures,2010
+88,172,Inception,160.0,292.576195,728.53796,Sci-Fi,Mystery,Action,8.8,Warner Bros,2010
+89,159,Shrek Forever After,165.0,238.736787,756.244673,Comedy,Animation,Adventure,6.4,Paramount Pictures,2010
+90,846,The Twilight Saga: Eclipse,68.0,300.531751,706.102828,Fantasy,Drama,Adventure,4.9,Lionsgate Films,2010
+91,146,Iron Man 2,170.0,312.433331,621.156389,Sci-Fi,Adventure,Action,7.1,Paramount Pictures,2010
+92,16,Tangled,260.0,200.821936,583.777242,Animation,Comedy,Animation,7.8,Walt Disney Pictures,2010
+93,843,Despicable Me,69.0,251.513985,543.464573,Animation,Comedy,Animation,7.7,Universal Pictures,2010
+94,162,How to Train Your Dragon,165.0,217.581232,494.870992,Animation,Animation,Adventure,8.2,Paramount Pictures,2010
+95,25,Avatar,237.0,785.221649,2910.317765,Fantasy,Adventure,Action,7.9,20th Century Fox,2009
+96,20,Harry Potter and the Half-Blood Prince,250.0,302.089278,929.411069,Fantasy,Family,Adventure,7.5,Warner Bros,2009
+97,509,Ice Age: Dawn of the Dinosaurs,90.0,196.573705,886.686817,Animation,Adventure,Action,7.0,20th Century Fox,2009
+98,40,Transformers: Revenge of the Fallen,210.0,402.11187,836.519699,Sci-Fi,Adventure,Action,6.0,Paramount Pictures,2009
+99,72,2012,200.0,166.112167,757.677748,Sci-Fi,Adventure,Action,5.8,Columbia Pictures,2009
+100,129,Up,175.0,293.004164,731.463377,Comedy,Animation,Adventure,8.3,Pixar,2009
+101,1196,The Twilight Saga: New Moon,50.0,296.623634,687.557727,Fantasy,Drama,Adventure,4.6,Lionsgate Films,2009
+102,507,Sherlock Holmes,90.0,209.028679,498.438212,Crime,Adventure,Action,7.6,Warner Bros,2009
+105,100,The Dark Knight,185.0,533.720947,998.615789,Drama,Crime,Action,9.0,Warner Bros,2008
+107,286,Kung Fu Panda,130.0,215.434591,631.910531,Animation,Adventure,Action,7.6,Paramount Pictures,2008
+109,1181,Mamma Mia!,52.0,144.130063,598.421187,Romance,Musical,Comedy,6.4,Universal Pictures,2008
+110,209,Madagascar: Escape 2 Africa,150.0,180.17488,599.680774,Animation,Adventure,Action,6.7,Paramount Pictures,2008
+112,99,Iron Man,186.0,318.604126,585.171547,Sci-Fi,Adventure,Action,7.9,Paramount Pictures,2008
+113,114,WALL-E,180.0,223.808164,532.508025,Animation,Animation,Adventure,8.4,Pixar,2008
+114,33,The Chronicles of Narnia: Prince Caspian,225.0,141.62149,417.341288,Family,Adventure,Action,6.6,Walt Disney Pictures,2008
+116,195,Harry Potter and the Order of the Phoenix,150.0,292.13726,939.619849,Fantasy,Family,Adventure,7.4,Warner Bros,2007
+118,171,Shrek the Third,160.0,322.719944,807.330936,Comedy,Animation,Adventure,6.1,DreamWorks,2007
+119,190,Transformers,151.0,319.246193,708.272592,Sci-Fi,Adventure,Action,7.2,DreamWorks,2007
+120,203,Ratatouille,150.0,206.445654,626.549695,Animation,Comedy,Animation,8.0,Pixar,2007
+122,769,The Simpsons Movie,72.5,183.135014,527.071022,Comedy,Animation,Adventure,7.4,20th Century Fox,2007
+124,949,300,60.0,210.614939,454.161935,War,Fantasy,Action,7.8,Warner Bros,2007
+127,713,Ice Age: The Meltdown,75.0,195.330621,651.899282,Animation,Adventure,Action,6.9,20th Century Fox,2006
+128,413,Casino Royale,102.0,167.365,594.420283,Thriller,Adventure,Action,8.0,Metro-Goldwyn-Mayer,2006
+130,368,Night at the Museum,110.0,250.863268,579.446407,Comedy,Adventure,Action,6.4,20th Century Fox,2006
+131,783,Cars,70.0,244.082982,461.630558,Comedy,Animation,Adventure,7.2,Pixar,2006
+132,42,X-Men: The Last Stand,210.0,234.362462,459.260946,Sci-Fi,Adventure,Action,6.8,20th Century Fox,2006
+133,218,Mission: Impossible III,150.0,133.501348,399.387745,Thriller,Adventure,Action,6.8,Paramount Pictures,2006
+134,26,Superman Returns,232.0,200.12,391.081192,Fantasy,Adventure,Action,6.1,Warner Bros,2006
+135,563,Happy Feet,85.0,198.000317,385.000315,Animation,Comedy,Animation,6.5,Warner Bros,2006
+136,196,Harry Potter and the Goblet of Fire,150.0,290.201752,886.742787,Fantasy,Family,Adventure,7.6,Warner Bros,2005
+139,280,War of the Worlds,132.0,234.280354,606.836535,Thriller,Sci-Fi,Adventure,6.5,Paramount Pictures,2005
+140,44,King Kong,207.0,218.080025,550.517357,Drama,Adventure,Action,7.3,Universal Pictures,2005
+143,714,Madagascar,75.0,193.595521,556.559566,Comedy,Animation,Adventure,6.9,DreamWorks,2005
+145,202,Charlie and the Chocolate Factory,150.0,206.459076,475.825484,Comedy,Adventure,Family,6.7,Warner Bros,2005
+148,782,Shrek 2,70.0,441.226247,935.253978,Comedy,Animation,Adventure,7.2,DreamWorks,2004
+149,283,Harry Potter and the Prisoner of Azkaban,130.0,249.757726,789.592708,Fantasy,Family,Adventure,7.8,Warner Bros,2004
+151,497,The Incredibles,92.0,261.441092,631.441092,Animation,Adventure,Action,8.0,Pixar,2004
+153,315,The Day After Tomorrow,125.0,186.740799,555.840117,Sci-Fi,Adventure,Action,6.4,20th Century Fox,2004
+156,716,Shark Tale,75.0,161.412,371.741123,Comedy,Adventure,Animation,6.0,DreamWorks,2004
+158,489,The Lord of the Rings: The Return of the King,94.0,377.845905,1120.210896,Fantasy,Adventure,Western,8.9,Warner Bros,2003
+159,488,Finding Nemo,94.0,380.52937,936.094852,Comedy,Animation,Adventure,8.2,Pixar,2003
+162,614,Bruce Almighty,81.0,242.704995,484.468608,Fantasy,Drama,Comedy,6.7,Universal Pictures,2003
+163,256,The Last Samurai,140.0,111.110575,456.810575,History,Drama,Action,7.7,Warner Bros,2003
+167,292,Bad Boys II,130.0,138.54087,273.271982,Crime,Comedy,Action,6.5,Columbia Pictures,2003
+169,417,Harry Potter and the Chamber of Secrets,100.0,262.233381,875.262553,Fantasy,Family,Adventure,7.3,Warner Bros,2002
+173,247,Die Another Day,142.0,160.942139,431.942139,Crime,Adventure,Action,6.1,Metro-Goldwyn-Mayer,2002
+174,781,Signs,70.702619,227.969295,408.250578,Thriller,Sci-Fi,Drama,6.7,Walt Disney Pictures,2002
+175,871,Ice Age,65.0,176.387405,386.116343,Comedy,Animation,Adventure,7.6,20th Century Fox,2002
+177,414,Minority Report,102.0,132.024714,358.824714,Sci-Fi,Mystery,Action,7.7,DreamWorks,2002
+180,357,"Monsters, Inc.",115.0,290.149425,560.483719,Comedy,Animation,Adventure,8.1,Pixar,2001
+181,1197,Shrek,50.0,267.655011,491.812794,Comedy,Animation,Adventure,7.9,DreamWorks,2001
+183,189,Pearl Harbor,151.5,198.539855,449.239853,Romance,Drama,Action,6.0,Walt Disney Pictures,2001
+184,472,The Mummy Returns,98.0,202.00764,435.040395,Fantasy,Adventure,Action,6.3,Universal Pictures,2001
+185,494,Jurassic Park III,93.0,181.166115,365.9,Sci-Fi,Adventure,Action,5.9,Universal Pictures,2001
+186,420,Planet of the Apes,100.0,180.01174,362.21174,Sci-Fi,Adventure,Action,5.7,20th Century Fox,2001
+188,558,Hannibal,87.0,165.092266,350.10028,Thriller,Drama,Crime,6.7,Metro-Goldwyn-Mayer,2001
+192,869,What Women Want,65.0,182.805123,374.105123,Romance,Fantasy,Comedy,6.4,Paramount Pictures,2000
+193,302,Dinosaur,127.5,137.748063,356.148063,Animation,Animation,Adventure,6.4,Walt Disney Pictures,2000
+194,329,How the Grinch Stole Christmas,123.0,260.348825,345.445403,Fantasy,Family,Comedy,6.0,Universal Pictures,2000
+196,331,The Perfect Storm,120.0,182.618434,328.711434,Drama,Adventure,Action,6.4,Warner Bros,2000
+197,717,X-Men,75.0,157.299717,296.872367,Sci-Fi,Adventure,Action,7.4,20th Century Fox,2000
+198,512,What Lies Beneath,90.0,155.464351,288.693989,Thriller,Horror,Drama,6.6,DreamWorks,2000
+200,1512,The Sixth Sense,40.0,293.506292,672.806292,Thriller,Mystery,Drama,8.2,Walt Disney Pictures,1999
+201,505,Toy Story 2,90.0,245.852179,511.358276,Comedy,Animation,Adventure,7.9,Walt Disney Pictures,1999
+203,242,Tarzan,145.0,171.091819,448.191819,Drama,Animation,Adventure,7.2,Walt Disney Pictures,1999
+204,89,The Mummy,195.0,80.101125,409.953905,Fantasy,Adventure,Action,7.0,Universal Pictures,1999
+206,1480,Notting Hill,42.0,116.089678,363.718196,Romance,Drama,Comedy,7.0,Universal Pictures,1999
+209,1789,Austin Powers: The Spy Who Shagged Me,35.0,206.040085,312.383487,Comedy,Adventure,Action,6.6,Warner Bros,1999
+210,250,Armageddon,140.0,201.578182,554.6,Sci-Fi,Adventure,Action,6.6,Walt Disney Pictures,1998
+211,868,Saving Private Ryan,65.0,216.335085,485.035085,War,Drama,Action,8.6,DreamWorks,1998
+212,175,Godzilla,160.0,200.676069,529.076069,Thriller,Sci-Fi,Action,5.3,Sony Pictures,1998
+216,626,Deep Impact,80.0,140.464664,349.464664,Sci-Fi,Drama,Action,6.1,DreamWorks,1998
+217,85,Mulan,200.0,0.0,69.97354,Family,Animation,Adventure,7.5,Walt Disney Pictures,1998
+220,"2,315",Shakespeare in Love,26.0,100.317794,279.5,Romance,Drama,Comedy,7.2,Universal Pictures,1998
+221,254,Lethal Weapon 4,140.0,130.444603,285.4,Thriller,Crime,Action,6.6,Warner Bros,1998
+223,712,The Lost World: Jurassic Park,75.0,229.086679,618.638999,Sci-Fi,Adventure,Action,6.5,Universal Pictures,1997
+225,376,Tomorrow Never Dies,110.0,125.304276,339.504276,Thriller,Adventure,Action,6.5,Metro-Goldwyn-Mayer,1997
+226,566,Air Force One,85.0,172.956409,315.268353,Drama,Adventure,Action,6.4,Columbia Pictures,1997
+230,483,The Fifth Element,95.0,63.570862,263.89282,Sci-Fi,Adventure,Action,7.6,Columbia Pictures,1997
+231,"5,041",The Full Monty,3.5,45.950122,261.249383,Music,Drama,Comedy,7.2,20th Century Fox,1997
+232,708,Independence Day,75.0,306.169255,817.400878,Sci-Fi,Adventure,Action,6.9,20th Century Fox,1996
+233,553,Twister,88.0,241.688385,495.7,Drama,Adventure,Action,6.2,Warner Bros,1996
+234,618,Mission: Impossible,80.0,180.981886,457.697994,Thriller,Adventure,Action,7.1,Paramount Pictures,1996
+235,719,The Rock,75.0,134.069511,336.069511,Thriller,Adventure,Action,7.4,Walt Disney Pictures,1996
+236,433,The Hunchback of Notre Dame,100.0,100.138851,325.5,Family,Drama,Animation,6.9,Walt Disney Pictures,1996
+239,1101,The Nutty Professor,55.0,128.814019,273.814019,Sci-Fi,Romance,Comedy,5.5,Universal Pictures,1996
+240,1201,Jerry Maguire,50.0,153.952592,273.552592,Romance,Drama,Comedy,7.3,Sony Pictures,1996
+241,432,Eraser,100.0,101.295562,234.4,Thriller,Drama,Action,6.0,Warner Bros,1996
+243,"2,006",Toy Story,30.0,192.523233,365.270951,Comedy,Animation,Adventure,8.3,Walt Disney Pictures,1995
+244,873,Apollo 13,65.0,173.772767,335.802271,History,Drama,Adventure,7.6,Universal Pictures,1995
+246,1099,Pocahontas,55.0,141.579773,347.1,Drama,Animation,Adventure,6.6,Walt Disney Pictures,1995
+247,419,Batman Forever,100.0,184.031112,336.529144,Fantasy,Adventure,Action,5.4,Warner Bros,1995
+249,1109,Casper,55.0,100.328194,282.3,Fantasy,Family,Comedy,6.0,Universal Pictures,1995
+250,138,Waterworld,175.0,88.24622,264.24622,Sci-Fi,Adventure,Action,6.1,Universal Pictures,1995
+251,883,Jumanji,65.0,100.45831,262.75831,Fantasy,Family,Adventure,6.8,Sony Pictures,1995
+252,15,The Lion King,260.0,543.638043,1647.733638,Drama,Animation,Adventure,8.5,Walt Disney Pictures,1994
+255,425,True Lies,100.0,146.282411,365.3,Thriller,Comedy,Action,7.2,20th Century Fox,1994
+256,"3,003",The Mask,18.0,119.920129,351.620129,Fantasy,Crime,Comedy,6.8,Warner Bros,1994
+257,"2,012",Speed,30.0,121.248145,283.2,Thriller,Crime,Action,7.2,20th Century Fox,1994
+258,1381,The Flintstones,45.0,130.531208,358.5,Fantasy,Family,Comedy,4.8,Universal Pictures,1994
+260,"4,860",Four Weddings and a Funeral,4.5,52.700832,242.895809,Romance,Drama,Comedy,7.1,Universal Pictures,1994
+262,933,Clear and Present Danger,62.0,122.012656,207.5,Drama,Crime,Action,6.9,Paramount Pictures,1994
+263,928,Jurassic Park,63.0,402.523348,1045.573035,Thriller,Sci-Fi,Adventure,8.0,Universal Pictures,1993
+264,"2,356",Mrs. Doubtfire,25.0,219.195051,441.286003,Family,Drama,Comedy,6.9,20th Century Fox,1993
+265,1462,The Fugitive,44.0,183.87576,353.715317,Crime,Adventure,Action,7.8,Warner Bros,1993
+267,1478,The Firm,42.0,158.340892,270.340892,Thriller,Mystery,Drama,6.8,Paramount Pictures,1993
+269,887,Cliffhanger,65.0,84.049211,255.0,Thriller,Adventure,Action,6.3,Sony Pictures,1993
+272,1386,The Pelican Brief,45.0,100.768056,187.995859,Drama,Crime,Action,6.5,Warner Bros,1993
+273,109,Aladdin,182.0,355.559216,1046.587513,Comedy,Animation,Adventure,8.0,Walt Disney Pictures,1992
+275,"2,363",The Bodyguard,25.0,122.00674,411.00674,Music,Drama,Action,6.1,Warner Bros,1992
+276,"2,706",Home Alone 2: Lost in New York,20.0,173.585516,358.99485,Family,Comedy,Adventure,6.5,20th Century Fox,1992
+278,1791,Lethal Weapon 3,35.0,144.731527,319.7,Thriller,Crime,Action,6.7,Warner Bros,1992
+285,1200,Robin Hood: Prince of Thieves,50.0,165.493908,390.5,Drama,Adventure,Action,6.9,Warner Bros,1991
+286,168,Beauty and the Beast,160.0,504.014165,1270.042058,Fantasy,Family,Animation,8.0,Walt Disney Pictures,1991
+288,792,Hook,70.0,119.654823,300.854823,Family,Comedy,Adventure,6.7,Sony Pictures,1991
+290,1552,JFK,40.0,70.405498,205.4,Thriller,History,Drama,8.0,Warner Bros,1991
+296,"2,617",Ghost,22.0,217.631306,517.599988,Romance,Fantasy,Drama,7.0,Paramount Pictures,1990
+299,"2,960",Dances with Wolves,19.0,184.208842,424.208805,Drama,Western,Adventure,8.0,Metro-Goldwyn-Mayer,1990
+300,325,Total Recall,125.0,58.877969,211.856088,Action,Sci-Fi,Mystery,7.5,Sony Pictures,1990
+302,1537,Back to the Future Part III,40.0,88.055283,244.087259,Romance,Comedy,Adventure,7.4,Universal Pictures,1990
+305,313,Teenage Mutant Ninja Turtles,125.0,191.204754,485.004754,Comedy,Adventure,Action,6.7,Warner Bros,1990
+307,"2,316",Kindergarten Cop,26.0,91.457688,202.0,Crime,Comedy,Action,6.0,Universal Pictures,1990
+310,1523,Back to the Future Part II,40.0,118.450002,331.971868,Sci-Fi,Comedy,Adventure,7.8,Universal Pictures,1989
+317,"3,453",Born on the Fourth of July,14.0,70.001698,70.001698,War,Drama,Biography,7.2,Universal Pictures,1989
+321,"3,004",Big,18.0,114.968774,151.665347,Fantasy,Drama,Comedy,7.3,20th Century Fox,1988
+326,"2,727",Cocktail,20.0,78.222753,78.222753,Romance,Drama,Comedy,5.8,Walt Disney Pictures,1988
+330,"2,708",Beverly Hills Cop II,20.0,153.665036,276.665036,Crime,Comedy,Action,6.4,Paramount Pictures,1987
+333,"2,376",The Untouchables,25.0,76.270454,76.271995,Thriller,Drama,Crime,8.0,Paramount Pictures,1987
+336,"3,276",Lethal Weapon,15.0,65.19235,120.19235,Thriller,Crime,Action,7.6,Warner Bros,1987
+338,"3,257",Top Gun,15.0,180.470489,357.469522,Romance,Drama,Action,6.8,Paramount Pictures,1986
+342,"2,535",Star Trek IV: The Voyage Home,24.0,109.713132,133.0,Comedy,Adventure,Action,7.3,Paramount Pictures,1986
+344,"3,113",Aliens,17.0,85.160248,183.300764,Sci-Fi,Adventure,Action,8.4,20th Century Fox,1986
+346,"3,635",The Golden Child,12.0,79.817937,79.817937,Comedy,Adventure,Action,5.8,Paramount Pictures,1986
+348,"2,959",Back to the Future,19.0,212.259762,385.510132,Romance,Comedy,Adventure,8.5,Universal Pictures,1985
+349,1463,Rambo: First Blood Part II,44.0,150.415432,300.4,Thriller,Adventure,Action,6.4,Sony Pictures,1985
+355,"3,641",Witness,12.0,65.532576,65.532576,Romance,Drama,Crime,7.5,Paramount Pictures,1985
+361,"2,222",Indiana Jones and the Temple of Doom,28.0,179.880271,333.080271,Action,Adventure,Drama,7.6,Paramount Pictures,1984
+363,1514,The Karate Kid,40.0,176.591618,351.774938,Family,Drama,Action,7.2,Columbia Pictures,1984
+366,"2,545",Footloose,24.0,51.802742,62.989834,Romance,Music,Drama,6.4,Paramount Pictures,1984
+370,"3,007",Star Trek III: The Search for Spock,18.0,76.471046,87.0,Sci-Fi,Adventure,Action,6.6,Paramount Pictures,1984
+373,"4,356",Flashdance,7.0,90.463574,201.463574,Romance,Music,Drama,6.1,Paramount Pictures,1983
+376,"2,273",Octopussy,27.5,67.9,187.5,Thriller,Adventure,Action,6.6,Metro-Goldwyn-Mayer,1983
+381,"3,833",E.T. the Extra-Terrestrial,10.5,439.251124,797.103542,Sci-Fi,Family,Western,7.9,Universal Pictures,1982
+386,"3,636",Star Trek II: The Wrath of Khan,12.0,78.912963,95.8,Drama,Adventure,Action,7.7,Paramount Pictures,1982
+391,886,Annie,65.0,85.911262,139.829625,Family,Drama,Comedy,6.5,Columbia Pictures,1982
+394,1162,Superman II,54.0,108.185706,190.4,Sci-Fi,Romance,Action,6.8,Warner Bros,1981
+398,"4,619",Chariots of Fire,5.5,61.558162,61.910507,Sport,History,Drama,7.2,Warner Bros,1981
+399,"2,239",For Your Eyes Only,28.0,54.8,195.3,Thriller,Adventure,Action,6.8,Metro-Goldwyn-Mayer,1981
+401,"3,654",Time Bandits,12.0,37.4,37.4,Fantasy,Comedy,Adventure,7.0,Embassy Pictures,1981
+410,"4,861",The Blue Lagoon,4.5,47.923795,47.923795,Romance,Drama,Adventure,5.7,Columbia Pictures,1980
+411,"2,286",The Blues Brothers,27.0,57.22989,57.245093,Crime,Comedy,Action,8.0,Universal Pictures,1980
+416,1799,Star Trek: The Motion Picture,35.0,82.258456,139.0,Sci-Fi,Mystery,Adventure,6.4,Paramount Pictures,1979
+420,1995,Moonraker,31.0,70.3,210.3,Crime,Adventure,Action,6.2,Metro-Goldwyn-Mayer,1979
+421,"4,219",The Muppet Movie,8.0,76.657,76.657,Family,Comedy,Adventure,7.7,Metro-Goldwyn-Mayer,1979
+423,1100,Superman,55.0,134.218018,300.2,Sci-Fi,Drama,Action,7.3,Warner Bros,1978
+426,"3,267",Heaven Can Wait,15.0,98.8,98.8,Sport,Romance,Comedy,6.9,Paramount Pictures,1978
+439,"2,324",A Bridge Too Far,26.0,50.8,50.8,War,History,Drama,7.4,Metro-Goldwyn-Mayer,1977
+441,"3,459",The Spy Who Loved Me,14.0,46.8,185.4,Thriller,Adventure,Action,7.1,Metro-Goldwyn-Mayer,1977
+442,"4,918",Annie Hall,4.0,38.251425,38.251425,Romance,Drama,Comedy,8.1,Metro-Goldwyn-Mayer,1977
+447,"2,387",The Omen,25.0,54.607383,119.295584,Thriller,Horror,Drama,7.6,20th Century Fox,1976
+450,44,King Kong,207.0,218.080025,550.517357,Horror,Fantasy,Adventure,5.8,Paramount Pictures,1976
+455,445,Midway,100.0,56.846802,126.81503,History,Drama,Action,6.7,Universal Pictures,1976
+458,"4,676",The Return of the Pink Panther,5.0,41.833347,41.833347,Thriller,Crime,Comedy,7.1,Metro-Goldwyn-Mayer,1975
